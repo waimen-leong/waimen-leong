@@ -1,6 +1,6 @@
 # Hi, I'm Wai Men 👋
 
-**Engine & game programmer** · Year 2 Computer Science (Real-Time Interactive Simulation) @ DigiPen Institute of Technology Singapore
+**Engine & game programmer** · Year 3 Computer Science (Real-Time Interactive Simulation) @ DigiPen Institute of Technology Singapore
 
 I build the systems underneath a game (ECS, scripting, collision, editor tools) in C++, then use them to ship games people play.
 
